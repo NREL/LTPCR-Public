@@ -1,1 +1,1 @@
-# LTPCR-Public
+# Light Trapping Planar Cavity Receiver (LTPCR)
