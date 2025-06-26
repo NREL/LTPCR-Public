@@ -1,6 +1,6 @@
 # Light Trapping Planar Cavity Receiver (LTPCR)
 
-1. Punchi Wedikkara, C., Martinek, J., Ma, Z., and Morris, A., 2025, “Thermal Analysis of a Solid Particle Light-Trapping Planar Cavity Receiver Using Computational Fluid Dynamics,” Applied Thermal Engineering, 273, p. 126427. https://doi.org/10.1016/j.applthermaleng.2025.126427.
+1. Punchi Wedikkara, C., Martinek, J., Ma, Z., and Morris, A., 2025, “Thermal Analysis of a Solid Particle Light-Trapping Planar Cavity Receiver Using Computational Fluid Dynamics,” Applied Thermal Engineering, 273, p. 126427. https://doi.org/10.1016/j.applthermaleng.2025.126427. [Link to abstract](#1)
 2. Brewster, K. J., Martinek, J., Municchi, F., Arthur-Arhin, W. J., Fosheim, J. R., Ma, Z., and Jackson, G. S., 2025, “Reduced Order Modeling of a Fluidized Bed Particle Receiver for Concentrating Solar Power with Thermal Energy Storage,” Solar Energy, 289, p. 113322.
 3. Abourazzouk, O., Shah, M. P., Martinek, J., He, X., Ma, Z., and Li, L., 2025, “Thermomechanical Modeling and Analysis of a High-Temperature Light Trapping Planar Cavity Receiver,” ASTFE Digital Library, Begel House Inc. [Online]. Available: https://dl.astfe.org/download/article/13956ebc329c7041/7%20TFEC-2025-56123-2_N.pdf. 
 4. Punchi Wedikkara, C., Martinek, J., Ma, Z., and Morris, A., 2024, “Thermal Analysis of a Solar Light Trapping Particle Receiver Using Computational Fluid Dynamics,” p. M64.012. [Online]. Available: https://ui.adsabs.harvard.edu/abs/2024APS..MARM64012P. 
@@ -14,3 +14,4 @@
 12. Carter, M., Korba, D., Martinek, J., Ma, Z., and Li, L., 2023, “Thermomechanical Stress and Creep-Fatigue Analysis of a High-Temperature Prototype Receiver for Heating Particles,” Energy Sustainability, American Society of Mechanical Engineers, p. V001T05A006. [Online]. Available: https://asmedigitalcollection.asme.org/ES/proceedings-abstract/ES2023/87189/1167669. 
 13. Appaswamy, K., Schirck, J., Punchi Wedikkara, C., Morris, A., and Ma, Z., 2023, “Multiphase Modeling in a Parallel Plate Fluidized Bed Receiver for Concentrating Solar Power,” Energy Sustainability, American Society of Mechanical Engineers, p. V001T05A001. [Online]. Available: https://asmedigitalcollection.asme.org/ES/proceedings-abstract/ES2023/87189/1167646. 
 
+# 1 
