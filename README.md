@@ -18,6 +18,18 @@
 12. Brewster, K. J., Martinek, J., Municchi, F., Arthur-Arhin, W. J., Fosheim, J. R., Ma, Z., and Jackson, G. S., 2025, “Reduced Order Modeling of a Fluidized Bed Particle Receiver for Concentrating Solar Power with Thermal Energy Storage,” Solar Energy, 289, p. 113322. [Link to abstract](#12)
 13. Punchi Wedikkara, C., Martinek, J., Ma, Z., and Morris, A., 2025, “Thermal Analysis of a Solid Particle Light-Trapping Planar Cavity Receiver Using Computational Fluid Dynamics,” Applied Thermal Engineering, 273, p. 126427. https://doi.org/10.1016/j.applthermaleng.2025.126427. [Link to abstract](#13)
 
-## Abstarcts of each publication
+## Abstracts of each publication
 ### 1 
 ### 2
+### 3
+### 4
+### 5
+### 6
+### 7
+### 8
+### 9
+### 10
+### 11
+### 12
+### 13
+
