@@ -16,8 +16,8 @@
 
 ### 2025
 11. Abourazzouk, O., Shah, M. P., Martinek, J., He, X., Ma, Z., and Li, L., 2025, “Thermomechanical Modeling and Analysis of a High-Temperature Light Trapping Planar Cavity Receiver,” ASTFE Digital Library, Begel House Inc. [Online]. Available: https://dl.astfe.org/download/article/13956ebc329c7041/7%20TFEC-2025-56123-2_N.pdf. 
-12. Brewster, K. J., Martinek, J., Municchi, F., Arthur-Arhin, W. J., Fosheim, J. R., Ma, Z., and Jackson, G. S., 2025, “Reduced Order Modeling of a Fluidized Bed Particle Receiver for Concentrating Solar Power with Thermal Energy Storage,” Solar Energy, 289, p. 113322. 
-13. Punchi Wedikkara, C., Martinek, J., Ma, Z., and Morris, A., 2025, “Thermal Analysis of a Solid Particle Light-Trapping Planar Cavity Receiver Using Computational Fluid Dynamics,” Applied Thermal Engineering, 273, p. 126427. https://doi.org/10.1016/j.applthermaleng.2025.126427. 
+12. Brewster, K. J., Martinek, J., Municchi, F., Arthur-Arhin, W. J., Fosheim, J. R., Ma, Z., and Jackson, G. S., 2025, “Reduced Order Modeling of a Fluidized Bed Particle Receiver for Concentrating Solar Power with Thermal Energy Storage,” Solar Energy, 289, p. 113322. https://doi.org/10.1016/j.solener.2025.113322.
+14. Punchi Wedikkara, C., Martinek, J., Ma, Z., and Morris, A., 2025, “Thermal Analysis of a Solid Particle Light-Trapping Planar Cavity Receiver Using Computational Fluid Dynamics,” Applied Thermal Engineering, 273, p. 126427. https://doi.org/10.1016/j.applthermaleng.2025.126427. 
 
 
 
