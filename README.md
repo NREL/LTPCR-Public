@@ -1,4 +1,5 @@
 # Light Trapping Planar Cavity Receiver (LTPCR)
+## List of publications [2023](#2023) | [2024](#2024) | [2025](#2025)
 ## 2023
 1. Appaswamy, K., Schirck, J., Punchi Wedikkara, C., Morris, A., and Ma, Z., 2023, “Multiphase Modeling in a Parallel Plate Fluidized Bed Receiver for Concentrating Solar Power,” Energy Sustainability, American Society of Mechanical Engineers, p. V001T05A001. [Online]. Available: https://asmedigitalcollection.asme.org/ES/proceedings-abstract/ES2023/87189/1167646. 
 2. Carter, M., Korba, D., Martinek, J., Ma, Z., and Li, L., 2023, “Thermomechanical Stress and Creep-Fatigue Analysis of a High-Temperature Prototype Receiver for Heating Particles,” Energy Sustainability, American Society of Mechanical Engineers, p. V001T05A006. [Online]. Available: https://asmedigitalcollection.asme.org/ES/proceedings-abstract/ES2023/87189/1167669. 
