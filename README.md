@@ -1,5 +1,5 @@
 # Light Trapping Planar Cavity Receiver (LTPCR)
-## List of publications [2023](#2023) | [2024](#2024) | [2025](#2025)
+## List of publications [2023](#2023) | [2024](#2024) | [2025](#2025) | ASME-ES-2025(#ASME-ES-2025)
 ### 2023
 1. Appaswamy, K., Schirck, J., Punchi Wedikkara, C., Morris, A., and Ma, Z., 2023, “Multiphase Modeling in a Parallel Plate Fluidized Bed Receiver for Concentrating Solar Power,” Energy Sustainability, American Society of Mechanical Engineers, p. V001T05A001. [Online]. Available: https://asmedigitalcollection.asme.org/ES/proceedings-abstract/ES2023/87189/1167646. 
 2. Carter, M., Korba, D., Martinek, J., Ma, Z., and Li, L., 2023, “Thermomechanical Stress and Creep-Fatigue Analysis of a High-Temperature Prototype Receiver for Heating Particles,” Energy Sustainability, American Society of Mechanical Engineers, p. V001T05A006. [Online]. Available: https://asmedigitalcollection.asme.org/ES/proceedings-abstract/ES2023/87189/1167669. 
@@ -19,5 +19,16 @@
 12. Brewster, K. J., Martinek, J., Municchi, F., Arthur-Arhin, W. J., Fosheim, J. R., Ma, Z., and Jackson, G. S., 2025, “Reduced Order Modeling of a Fluidized Bed Particle Receiver for Concentrating Solar Power with Thermal Energy Storage,” Solar Energy, 289, p. 113322. https://doi.org/10.1016/j.solener.2025.113322.
 14. Punchi Wedikkara, C., Martinek, J., Ma, Z., and Morris, A., 2025, “Thermal Analysis of a Solid Particle Light-Trapping Planar Cavity Receiver Using Computational Fluid Dynamics,” Applied Thermal Engineering, 273, p. 126427. https://doi.org/10.1016/j.applthermaleng.2025.126427. 
 
+### ASME-ES-2025
+	• Geometric Optimization of an External Enclosure to Enhance Receiver Thermal Performance (06-03: CSP Receivers and Reactors II)
+		○ https://es.secure-platform.com/a/solicitations/251/sessiongallery/20181/application/157075 
+	• Investigation of Flux Spreading in a Light-Trapping, Planar-Cavity Receiver for Enclosed Solar Particle Heating 
+		○ https://es.secure-platform.com/a/solicitations/251/sessiongallery/20180/application/169834 (06-02: CSP Receivers and Reactors I )
+	• Prototype Development for a Light-Trapping Planar-Cavity Enclosed Particle Solar Receiver (06-04: CSP Receivers and Reactors III)
+		○ https://es.secure-platform.com/a/solicitations/251/sessiongallery/20182/application/166830
+	• Integrated Design and Analysis of Csp Towers for Wind Resilience and Cost Efficiency ( 08-01: Deployment and Analysis of CSP Subsystems)
+		○ https://es.secure-platform.com/a/solicitations/251/sessiongallery/20192/application/157908
+	• Impacts of Pulsed Fluidization on Heat Transfer and Bubble Hydrodynamics in Bubbling Fluidized Beds (06-03: CSP Receivers and Reactors II )
+    ○ https://es.secure-platform.com/a/solicitations/251/sessiongallery/20181/application/156002
 
 
