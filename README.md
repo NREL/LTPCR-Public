@@ -28,7 +28,9 @@
    * https://es.secure-platform.com/a/solicitations/251/sessiongallery/20181/application/156002
 4. Prototype Development for a Light-Trapping Planar-Cavity Enclosed Particle Solar Receiver (06-04: CSP Receivers and Reactors III)
    * https://es.secure-platform.com/a/solicitations/251/sessiongallery/20182/application/166830
-5. Integrated Design and Analysis of Csp Towers for Wind Resilience and Cost Efficiency ( 08-01: Deployment and Analysis of CSP Subsystems)
+5. Prototype Modeling for a Light-Trapping Planar-Cavity Enclosed Particle Solar Receiver (06-04: CSP Receivers and Reactors III)
+	 * https://es.secure-platform.com/a/solicitations/251/sessiongallery/20182/application/163967
+6. Integrated Design and Analysis of Csp Towers for Wind Resilience and Cost Efficiency ( 08-01: Deployment and Analysis of CSP Subsystems)
    * https://es.secure-platform.com/a/solicitations/251/sessiongallery/20192/application/157908
 
 
