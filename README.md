@@ -21,14 +21,14 @@
 
 ### ASME-ES-2025
 1. Geometric Optimization of an External Enclosure to Enhance Receiver Thermal Performance (06-03: CSP Receivers and Reactors II)
-* https://es.secure-platform.com/a/solicitations/251/sessiongallery/20181/application/157075 
+  * https://es.secure-platform.com/a/solicitations/251/sessiongallery/20181/application/157075 
 2. Investigation of Flux Spreading in a Light-Trapping, Planar-Cavity Receiver for Enclosed Solar Particle Heating 
-* https://es.secure-platform.com/a/solicitations/251/sessiongallery/20180/application/169834 (06-02: CSP Receivers and Reactors I )
+  * https://es.secure-platform.com/a/solicitations/251/sessiongallery/20180/application/169834 (06-02: CSP Receivers and Reactors I )
 3. Prototype Development for a Light-Trapping Planar-Cavity Enclosed Particle Solar Receiver (06-04: CSP Receivers and Reactors III)
-* https://es.secure-platform.com/a/solicitations/251/sessiongallery/20182/application/166830
+  * https://es.secure-platform.com/a/solicitations/251/sessiongallery/20182/application/166830
 4. Integrated Design and Analysis of Csp Towers for Wind Resilience and Cost Efficiency ( 08-01: Deployment and Analysis of CSP Subsystems)
-* https://es.secure-platform.com/a/solicitations/251/sessiongallery/20192/application/157908
+  * https://es.secure-platform.com/a/solicitations/251/sessiongallery/20192/application/157908
 5. Impacts of Pulsed Fluidization on Heat Transfer and Bubble Hydrodynamics in Bubbling Fluidized Beds (06-03: CSP Receivers and Reactors II )
-* https://es.secure-platform.com/a/solicitations/251/sessiongallery/20181/application/156002
+  * https://es.secure-platform.com/a/solicitations/251/sessiongallery/20181/application/156002
 
 
