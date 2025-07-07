@@ -20,17 +20,17 @@
 14. Punchi Wedikkara, C., Martinek, J., Ma, Z., and Morris, A., 2025, “Thermal Analysis of a Solid Particle Light-Trapping Planar Cavity Receiver Using Computational Fluid Dynamics,” Applied Thermal Engineering, 273, p. 126427. https://doi.org/10.1016/j.applthermaleng.2025.126427. 
 
 ### ASME-ES-2025
-1. Investigation of Flux Spreading in a Light-Trapping, Planar-Cavity Receiver for Enclosed Solar Particle Heating (06-02: CSP Receivers and Reactors I )
+1. Investigation of Flux Spreading in a Light-Trapping, Planar-Cavity Receiver for Enclosed Solar Particle Heating (**06-02: CSP Receivers and Reactors I**)
    * https://es.secure-platform.com/a/solicitations/251/sessiongallery/20180/application/169834 
-2. Geometric Optimization of an External Enclosure to Enhance Receiver Thermal Performance (06-03: CSP Receivers and Reactors II)
+2. Geometric Optimization of an External Enclosure to Enhance Receiver Thermal Performance (**06-03: CSP Receivers and Reactors II**)
    * https://es.secure-platform.com/a/solicitations/251/sessiongallery/20181/application/157075
-3. Impacts of Pulsed Fluidization on Heat Transfer and Bubble Hydrodynamics in Bubbling Fluidized Beds (06-03: CSP Receivers and Reactors II )
+3. Impacts of Pulsed Fluidization on Heat Transfer and Bubble Hydrodynamics in Bubbling Fluidized Beds (**06-03: CSP Receivers and Reactors II**)
    * https://es.secure-platform.com/a/solicitations/251/sessiongallery/20181/application/156002
-4. Prototype Development for a Light-Trapping Planar-Cavity Enclosed Particle Solar Receiver (06-04: CSP Receivers and Reactors III)
+4. Prototype Development for a Light-Trapping Planar-Cavity Enclosed Particle Solar Receiver (**06-04: CSP Receivers and Reactors III**)
    * https://es.secure-platform.com/a/solicitations/251/sessiongallery/20182/application/166830
-5. Prototype Modeling for a Light-Trapping Planar-Cavity Enclosed Particle Solar Receiver (06-04: CSP Receivers and Reactors III)
+5. Prototype Modeling for a Light-Trapping Planar-Cavity Enclosed Particle Solar Receiver (**06-04: CSP Receivers and Reactors III**)
 	 * https://es.secure-platform.com/a/solicitations/251/sessiongallery/20182/application/163967
-6. Integrated Design and Analysis of Csp Towers for Wind Resilience and Cost Efficiency ( 08-01: Deployment and Analysis of CSP Subsystems)
+6. Integrated Design and Analysis of Csp Towers for Wind Resilience and Cost Efficiency (**08-01: Deployment and Analysis of CSP Subsystems**)
    * https://es.secure-platform.com/a/solicitations/251/sessiongallery/20192/application/157908
 
 
